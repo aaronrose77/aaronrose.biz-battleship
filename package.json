@@ -1,0 +1,19 @@
+{
+  "name": "aaronrose.biz-battleship",
+  "version": "1.0.0",
+  "description": "Simple battleship demo using vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronrose77/aaronrose.biz-battleship.git"
+  },
+  "author": "Aaron Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronrose77/aaronrose.biz-battleship/issues"
+  },
+  "homepage": "https://github.com/aaronrose77/aaronrose.biz-battleship#readme"
+}
