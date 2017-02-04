@@ -38,3 +38,6 @@ jspm_packages
 
 # Ignore design directory
 _design
+
+# Ignore references directory
+_references
